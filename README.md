@@ -1,2 +1,2 @@
-# Statistical-Data-Analysis
-Hand-on applications of Statistical Data analysis theory using R 
+# 
+Hand-on applications of Statistical Data analysis,Machine Learning and Data Processing using R 
